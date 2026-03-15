@@ -67,7 +67,7 @@ namespace SeleniumLearning
 
             //validate url of the link text
             String hrefAtttr = link.GetAttribute("href");
-            String expectedUrl = "https://rahulshettyacademy.com/documents-requesti";
+            String expectedUrl = "https://rahulshettyacademy.com/documents-request";
 
             Assert.That(hrefAtttr, Is.EqualTo(expectedUrl));
             
