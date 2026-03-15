@@ -1,5 +1,6 @@
 <Solution>
   <Project Path="CSharpFundas/CSharpFundas.csproj" />
+  <Project Path="CSharpSeleniumFramework/CSharpSeleniumFramework.csproj" Id="2a276264-5bd1-4615-8058-07a7530105d2" />
   <Project Path="CSharpSelFramework/CSharpSelFramework.csproj" Id="17e86555-5546-402f-a937-6252087e7bf8" />
   <Project Path="SeleniumLearning/SeleniumLearning.csproj" Id="aa4dcc72-263d-458a-a6c5-51118aa5a979" />
 </Solution>
