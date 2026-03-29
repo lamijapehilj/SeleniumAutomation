@@ -39,6 +39,12 @@ namespace CSharpSelFramework
         }
 
 
+        public IWebDriver getDriver()
+            { 
+            return driver; 
+            }
+
+
         [TearDown]
 
         public void QuitBrowser()
